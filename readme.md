@@ -1,1 +1,1 @@
-Olá, esse projeto é para os desafios da DIO.
+Olá, esse repositório é para os projeto dos desafios da DIO.
